@@ -14,5 +14,5 @@ _*Importação*_
 Ano| Curso | Professor | Aulas
 :---: | ---:| :--- | :---:
 2013 | HTML+CSS+JS | Gustavo Guanabara | 36
-2018 | Hardware  | Alfredo  Jr | 28
+2018 | Hardware  | Alfredo  Jr| 28
 2019 | linux | Ricardo Pinheiro | 15
