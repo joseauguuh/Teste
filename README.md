@@ -10,6 +10,6 @@ _*Importação*_
 * opcao 4
 *  opcao 5
 
-[]pao
-[x]leite
-[]acucar
+- []pao
+- [x]leite
+- []acucar
