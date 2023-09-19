@@ -10,7 +10,7 @@ _*Importação*_
 *   opcao 4
 
 
-   \## Tabela de Cursos
+   ## Tabela de Cursos
 
 Ano| Curso | Professor | Aulas
 :---: | ---:| :--- | :---:
